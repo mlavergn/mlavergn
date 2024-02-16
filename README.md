@@ -3,7 +3,10 @@
 - GANs
   -  _GANs have interesting alternative use cases in the context of classical classification models._
 - Zig
-  - _Zig is a C-like language with Go-idioms that has no macros 🎉, hidden control flows, or GC with top-tier performance characteristics._
+  - _Zig is a C-like language that borrows Go-idioms while being fully interoperable with C code and libraries and offers:_
+    - _Built-in cross compilation_
+    - _No GC_
+    - _Top-tier performance characteristics_
 - Swift Package Manager
   - _SwiftPM (aka. SPM) has matured since 2015 and can be the dependecy manager of choice for many use cases._
 
