@@ -1,23 +1,30 @@
+#### Things I'm Experimenting On
+
+- GANs
+  -  _GANs have interesting alternative use cases in the context of classical classification models._
+- Zig
+  - _Zig is a C-like language with Go-idioms that has no macros 🎉, hidden control flows, or GC with top-tier performance characteristics._
+- Swift Package Manager
+  - _SwiftPM (aka. SPM) has matured since 2015 and can be the dependecy manager of choice for many use cases._
+
+----
+
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mlavergn&show_icons=true&theme=radical&hide=issues,prs"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mlavergn&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mlavergn&show_icons=true" />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=mlavergn&show_icons=true&theme=radical&hide=issues,prs"
+        media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=mlavergn&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mlavergn&show_icons=true" />
 </picture>
-<br/>
+<br />
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mlavergn&show_icons=true&theme=radical&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mlavergn&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlavergn&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8" />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mlavergn&show_icons=true&theme=radical&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
+        media="(prefers-color-scheme: dark)" />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mlavergn&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mlavergn&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8" />
 </picture>
