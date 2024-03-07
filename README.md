@@ -13,6 +13,7 @@
 #### Link Outs
 
 - [mlavergn on Hugging Face](https://huggingface.co/mlavergn)
+- [marclavergn on Kaggle](https://www.kaggle.com/marclavergne)
 
 ----
 
