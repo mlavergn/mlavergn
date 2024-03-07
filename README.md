@@ -10,6 +10,10 @@
 - Swift Package Manager
   - _SwiftPM (aka. SPM) has matured since 2015 and can be the dependecy manager of choice for many use cases._
 
+#### Link Outs
+
+- [mlavergn on Hugging Face](https://huggingface.co/mlavergn)
+
 ----
 
 <picture>
