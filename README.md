@@ -10,6 +10,12 @@
 - Swift Package Manager
   - _SwiftPM (aka. SPM) has matured since 2015 and can be the dependecy manager of choice for many use cases._
 
+#### Liquid Neural Networks - LNN (Step towards true AI)
+
+- [This Week In Startups Talk with LiquidAI](https://www.youtube.com/watch?v=iXQRhDeOnV4)
+- [TechCrunch Article on LNN](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)
+- [TEDxMIT Talk on LNNs](https://www.youtube.com/watch?v=RI35E5ewBuI)
+
 #### Link Outs
 
 - [mlavergn on Hugging Face](https://huggingface.co/mlavergn)
