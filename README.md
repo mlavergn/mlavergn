@@ -2,6 +2,9 @@
 
 - GANs
   -  _GANs have interesting alternative use cases in the context of classical classification models._
+  -  _ollama GPT model runtime container (https://github.com/ollama/ollama)
+- Liquid Neural Networks (LNN)
+  - _Facinating alternative for static transformer based models based on malleable differential equations_
 - Zig
   - _Zig is a C-like language that borrows Go-idioms while being fully interoperable with C code and libraries and offers:_
     - _Built-in cross compilation_
