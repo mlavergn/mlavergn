@@ -1,17 +1,15 @@
 #### Things I'm Experimenting On
 
-- GANs
-  -  _GANs have interesting alternative use cases in the context of classical classification models._
-  -  _ollama GPT model runtime container (https://github.com/ollama/ollama)
+- LLMs
+  -  _DeepseekR1 GPT models from High-Flyer (https://huggingface.co/deepseek-ai)
+  -  _Llama3 GPT models from Meta (https://huggingface.co/meta-llama)
 - Liquid Neural Networks (LNN)
-  - _Facinating alternative for static transformer based models based on malleable differential equations_
+  - _Interesting alternative for static transformer based models based on malleable differential equations_
 - Zig
   - _Zig is a C-like language that borrows Go-idioms while being fully interoperable with C code and libraries and offers:_
     - _Built-in cross compilation_
     - _No GC_
     - _Top-tier performance characteristics_
-- Swift Package Manager
-  - _SwiftPM (aka. SPM) has matured since 2015 and can be the dependecy manager of choice for many use cases._
 
 #### Liquid Neural Networks - LNN (Step towards true AI)
 
