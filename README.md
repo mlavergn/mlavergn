@@ -1,21 +1,18 @@
 #### Things I'm Experimenting On
 
 - LLMs
-  -  _DeepseekR1 GPT models from High-Flyer (https://huggingface.co/deepseek-ai)
-  -  _Llama3 GPT models from Meta (https://huggingface.co/meta-llama)
-- Liquid Neural Networks (LNN)
+  - _Task specific highly optimized inteference engines with optimized layer mappings_
+  - _Dynamic adapter retraining passes based on continuouosly evolving reinforcement data_
+- Diffusion Models
   - _Interesting alternative for static transformer based models based on malleable differential equations_
+- Hard Tech
+  - _Robotics and telematics_
+  - _Perception and actuation in physically mobile processing units_ 
 - Zig
   - _Zig is a C-like language that borrows Go-idioms while being fully interoperable with C code and libraries and offers:_
     - _Built-in cross compilation_
     - _No GC_
     - _Top-tier performance characteristics_
-
-#### Liquid Neural Networks - LNN (Step towards true AI)
-
-- [This Week In Startups Talk with LiquidAI](https://www.youtube.com/watch?v=iXQRhDeOnV4)
-- [TechCrunch Article on LNN](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)
-- [TEDxMIT Talk on LNNs](https://www.youtube.com/watch?v=RI35E5ewBuI)
 
 #### Link Outs
 
