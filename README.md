@@ -1,19 +1,20 @@
 #### Things I'm Experimenting On
 
-- LLMs
+##  LLMs
   - _Task specific highly optimized inteference engines with optimized layer mappings_
   - _Dynamic adapter retraining passes based on continuouosly evolving reinforcement data_
-- Diffusion Models
-  - _Interesting alternative for static transformer based models based on malleable differential equations_
-- Hard Tech
-  - _Robotics and telematics_
-  - _Perception and actuation in physically mobile processing units_ 
-- Zig
-  - _Zig is a C-like language that borrows Go-idioms while being fully interoperable with C code and libraries and offers:_
-    - _Built-in cross compilation_
-    - _No GC_
-    - _Top-tier performance characteristics_
 
+## Diffusion Models
+  - _Interesting alternative for static transformer based models based on malleable differential equations_
+
+## Zig
+
+Zig, a modern alternative to C, is a low-level systems language with zero hidden allocations, no garbage collector, and no hidden control flow. Default runtime safety checks include array bounds, integer overflow detection, and null unwrapping.
+
+Zig defaults to lean, zero-dependency binaries with a small memory footprint and fast startup times. Leveraging comptime specialization and guaranteed tail calls, Zig measurably edges out comparable C++ and Rust binaries by 1–2% in throughput by eliminating abstraction penalties and enabling aggressive compile-time evaluation.
+
+Zig’s first-class C interoperability features seamless C intergration, C-compatible ABIs, and a drop-in C/C++ compiler (zig cc). Combined with cross-compilation targeting any architecture from any host with zero extra toolchain installs, Zig delivers lean, zero-dependency binaries with minimal memory footprint and fast launch times.
+  
 #### Link Outs
 
 - [mlavergn on Hugging Face](https://huggingface.co/mlavergn)
