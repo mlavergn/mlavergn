@@ -1,20 +1,23 @@
-#### Things I'm Experimenting On
+#### Experiments I'm Running
 
 ##  LLMs
+  - _Base model training modules and tooling in Zig_
   - _Task specific highly optimized inteference engines with optimized layer mappings_
-  - _Dynamic adapter retraining passes based on continuouosly evolving reinforcement data_
+  - _Dynamic adapter retraining passes based on continuously evolving reinforcement data_
 
 ## Diffusion Models
   - _Interesting alternative for static transformer based models based on malleable differential equations_
 
 ## Zig
 
-Zig, a modern alternative to C, is a low-level systems language with zero hidden allocations, no garbage collector, and no hidden control flow. Default runtime safety checks include array bounds, integer overflow detection, and null unwrapping.
+Zig is a modern, low-ceremony systems programming language alternative to C. The language has no hidden allocations, no garbage collector, and no hidden control flow.
 
-Zig defaults to lean, zero-dependency binaries with a small memory footprint and fast startup times. Leveraging comptime specialization and guaranteed tail calls, Zig measurably edges out comparable C++ and Rust binaries by 1–2% in throughput by eliminating abstraction penalties and enabling aggressive compile-time evaluation.
+Zig treats C interoperability as a first-class feature, offering seamless C integration, C-FFI compatible ABIs, and a bundled C/C++ compiler toolchain through `zig cc` and `zig c++`. Its built-in cross-compilation support makes it easy to target a wide range of platforms without installing separate toolchains.
 
-Zig’s first-class C interoperability features seamless C intergration, C-compatible ABIs, and a drop-in C/C++ compiler (zig cc). Combined with cross-compilation targeting any architecture from any host with zero extra toolchain installs, Zig delivers lean, zero-dependency binaries with minimal memory footprint and fast launch times.
-  
+Zig bundles a lean cross-platform standard library and includes its own build system, with dependency management and build logic written in Zig. Dependencies can expose their own build configuration, giving projects flexible control over how modules are integrated and organized.
+
+In practice, Zig has proven to be more performant and memory efficient than comparable C++ and Rust implementations.
+
 #### Link Outs
 
 - [mlavergn on Hugging Face](https://huggingface.co/mlavergn)
